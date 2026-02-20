@@ -1,1 +1,1 @@
-conflict 2jj
+conflict 2
